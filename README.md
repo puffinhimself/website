@@ -1,2 +1,2 @@
-# Graeme|Himself
+# Graeme|himself
 This is a website.
